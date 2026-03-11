@@ -2,7 +2,7 @@
 
 **Own your wins. Tell your story. Never scramble for numbers again.**
 
-→ [**Try it live →**](https://noelb24.github.io/braggable/)
+→ [**Try it live →**](https://braggable.github.io/braggable/)
 
 ---
 
@@ -17,25 +17,25 @@ Braggable fixes that. It's your personal sales achievement tracker: a fast, priv
 ## Features
 
 - **Log wins** — closed deals, upsells, renewals, referrals, and prospecting wins
-- - **Track context** — deal size, close date, days to close, tags, and story notes
-  - - **Filter & search** — find any win instantly by type, keyword, or date
-    - - **Dashboard** — visualize your quota attainment, total revenue, win streaks, and top deal types
-      - - **Export** — download your full brag book as HTML, JSON, or CSV
-        - - **100% private** — everything stays in your browser's localStorage, zero servers
-         
-          - ---
+- **Track context** — deal size, close date, days to close, tags, and story notes
+- **Filter & search** — find any win instantly by type, keyword, or date
+- **Dashboard** — visualize your quota attainment, total revenue, win streaks, and top deal types
+- **Export** — download your full brag book as HTML, JSON, or CSV
+- **100% private** — everything stays in your browser's localStorage, zero servers
 
-          ## Built With
+---
 
-          - Vanilla HTML, CSS, JavaScript — no frameworks, no build step
-          - - Deployed via GitHub Pages
-           
-            - ---
+## Built With
 
-            ## Getting Started
+- Vanilla HTML, CSS, JavaScript — no frameworks, no build step
+- Deployed via GitHub Pages
 
-            Just open [braggable](https://noelb24.github.io/braggable/) and start logging wins. No signup required.
+---
 
-            ---
+## Getting Started
 
-            *Built by a seller, for sellers.*
+Just open [braggable](https://braggable.github.io/braggable/) and start logging wins. No signup required.
+
+---
+
+*Built by a seller, for sellers.*
